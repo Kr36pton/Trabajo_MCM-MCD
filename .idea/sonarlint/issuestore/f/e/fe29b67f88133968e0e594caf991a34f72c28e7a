@@ -1,0 +1,9 @@
+
+R
+java:S1854 "7Remove this useless assignment to local variable "MCD".(¶Μ»ωÿÿÿÿ
+C
+java:S1481 "(Remove this unused "MCD" local variable.(¶Μ»ωÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ΎΌ«λωÿÿÿÿ
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(„²Θόÿÿÿÿ8άƒι΄μ/
+k	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Μ»ωÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰ιέ
